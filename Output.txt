@@ -1,0 +1,13 @@
+	id of vehicle: 9	Time: 93	EVENT# : 1	Customer id: 13	dealership: Chicago Buick
+	id of vehicle: 3	Time: 705	EVENT# : 5	Customer id: 3	dealership: Schaumburg Cadillac
+	id of vehicle: 5	Time: 1351	EVENT# : 6	Customer id: 16	dealership: Saturn of North Chicago
+	id of vehicle: 2	Time: 2911	EVENT# : 8	Customer id: 15	dealership: Chicago Buick
+	id of vehicle: 6	Time: 75540	EVENT# : 18	Customer id: 19	dealership: Saturn of North Chicago
+	id of vehicle: 1	Time: 224858	EVENT# : 20	Customer id: 14	dealership: Saturn of North Chicago
+	id of vehicle: 9	Time: 1005775	EVENT# : 24	Customer id: 6	dealership: Chicago Buick
+	id of vehicle: 7	Time: 1595515	EVENT# : 25	Customer id: 10	dealership: Chicago Buick
+	id of vehicle: 4	Time: 9063663	EVENT# : 31	Customer id: 18	dealership: Saturn of North Chicago
+	id of vehicle: 8	Time: 184160561	EVENT# : 40	Customer id: 17	dealership: Saturn of North Chicago
+	id of vehicle: 10	Time: 1286592196	EVENT# : 47	Customer id: 5	dealership: Glen Ellyn Chevrolet
+	The exception: MatchNotFoundException was thrown 14 times
+	The exception: RepeatNumberException was thrown 22 times
